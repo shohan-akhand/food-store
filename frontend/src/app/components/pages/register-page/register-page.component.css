@@ -7,17 +7,11 @@
 }
 
 .details {
-  width: 28rem;
+  width: 25rem;
 }
 
-form {
+.login {
   display: flex;
-  flex-direction: column;
   justify-content: center;
-  padding-left: 10rem;
-  padding-right: 10rem;
-}
-
-.error-list {
-  color: red;
+  align-items: center;
 }
